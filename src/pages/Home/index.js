@@ -6,7 +6,7 @@ import Vidro from "../Vidro";
 import Plastico from "../Plastico";
 import Metal from "../Metal";
 import Organico from "../Organico";
-import NaoReciclavel from "../Naoreciclavel";
+import NaoReciclavel from "../NaoReciclavel";
 import { LinearGradient } from 'expo-linear-gradient';
 import { TouchableOpacity } from 'react-native';
 import { MaterialCommunityIcons } from '@expo/vector-icons';

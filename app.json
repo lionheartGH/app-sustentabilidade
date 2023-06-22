@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "app-sustentabilidade",
+    "name": "Recyclearn",
     "slug": "app-sustentabilidade",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -12,7 +12,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#262626"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -24,10 +24,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.lionheartex.appsustentabilidade"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0d4d7726-b93e-495f-a327-5c3d1683fe28"
+      }
     }
   }
 }

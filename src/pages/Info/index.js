@@ -10,6 +10,7 @@ function Info(){
 
     const navigation = useNavigation()
 
+
     function Continuar(){
         navigation.navigate('Home')
     }
